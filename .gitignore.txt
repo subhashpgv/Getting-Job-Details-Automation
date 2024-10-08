@@ -1,0 +1,4 @@
+# Ignore a specific class
+src/main/java/WebScrapers/JobScraper.java
+src/main/java/WebScrapers/testscrap1.java
+src/main/java/WebScrapers/testscrap2.java
